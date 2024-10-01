@@ -1,0 +1,1950 @@
+[
+  {
+    "category": "Tarjeta SIM",
+    "value": "open cell",
+    "reference": "SIM001",
+    "quantity": 7
+  },
+  {
+    "category": "Tarjeta de adquisición",
+    "value": "LAUNCHXL-F28379D",
+    "reference": "TA001",
+    "quantity": 1
+  },
+  {
+    "category": "Sensor",
+    "value": "SEN-TERMO-K",
+    "reference": "SEN001",
+    "quantity": 5
+  },
+  {
+    "category": "Sensor",
+    "value": "6Y-VL53LOXV2",
+    "reference": "SEN002",
+    "quantity": 9
+  },
+  {
+    "category": "Pantalla OLED",
+    "value": "1.3",
+    "reference": "OLED001",
+    "quantity": 4
+  },
+  {
+    "category": "Circuito Integrado",
+    "value": "74HC165",
+    "reference": "CI001",
+    "quantity": 10
+  },
+  {
+    "category": "Circuito Integrado",
+    "value": "CD4046",
+    "reference": "CI002",
+    "quantity": 6
+  },
+  {
+    "category": "Circuito Integrado",
+    "value": "74LS164",
+    "reference": "CI003",
+    "quantity": 10
+  },
+  {
+    "category": "Circuito Integrado",
+    "value": "74LS90",
+    "reference": "CI004",
+    "quantity": 8
+  },
+  {
+    "category": "Circuito Integrado",
+    "value": "NE564N",
+    "reference": "CI005",
+    "quantity": 15
+  },
+  {
+    "category": "Circuito Integrado",
+    "value": "CA3046",
+    "reference": "CI006",
+    "quantity": 15
+  },
+  {
+    "category": "Circuito Integrado",
+    "value": "LM565CN",
+    "reference": "CI007",
+    "quantity": 15
+  },
+  {
+    "category": "Circuito Integrado",
+    "value": "MC1496P",
+    "reference": "CI008",
+    "quantity": 40
+  },
+  {
+    "category": "Circuito Integrado",
+    "value": "74LS73",
+    "reference": "CI009",
+    "quantity": 10
+  },
+  {
+    "category": "Circuito Integrado",
+    "value": "74LS93",
+    "reference": "CI010",
+    "quantity": 10
+  },
+  {
+    "category": "Circuito Integrado",
+    "value": "SA602AN",
+    "reference": "CI011",
+    "quantity": 5
+  },
+  {
+    "category": "Circuito Integrado",
+    "value": "LM386",
+    "reference": "CI012",
+    "quantity": 13
+  },
+  {
+    "category": "Circuito Integrado",
+    "value": "AD633",
+    "reference": "CI013",
+    "quantity": 1
+  },
+  {
+    "category": "Circuito Integrado",
+    "value": "LM3080N",
+    "reference": "CI014",
+    "quantity": 25
+  },
+  {
+    "category": "Circuito Integrado",
+    "value": "LM741",
+    "reference": "CI015",
+    "quantity": 25
+  },
+  {
+    "category": "Circuito Integrado",
+    "value": "LF353",
+    "reference": "CI016",
+    "quantity": 25
+  },
+  {
+    "category": "Transistor",
+    "value": "BF199",
+    "reference": "T001",
+    "quantity": 25
+  },
+  {
+    "category": "Transistor",
+    "value": "S9018",
+    "reference": "T002",
+    "quantity": 25
+  },
+  {
+    "category": "Transistor",
+    "value": "BF254",
+    "reference": "T003",
+    "quantity": 25
+  },
+  {
+    "category": "Transistor",
+    "value": "2N3819",
+    "reference": "T004",
+    "quantity": 25
+  },
+  {
+    "category": "Transistor",
+    "value": "2N5485",
+    "reference": "T005",
+    "quantity": 25
+  },
+  {
+    "category": "Transistor",
+    "value": "2N5457",
+    "reference": "T006",
+    "quantity": 25
+  },
+  {
+    "category": "Transistor",
+    "value": "2N7000",
+    "reference": "T007",
+    "quantity": 100
+  },
+  {
+    "category": "Transistor",
+    "value": "BS170",
+    "reference": "T008",
+    "quantity": 100
+  },
+  {
+    "category": "Transistor",
+    "value": "BF245",
+    "reference": "T009",
+    "quantity": 30
+  },
+  {
+    "category": "Transistor",
+    "value": "J309",
+    "reference": "T010",
+    "quantity": 30
+  },
+  {
+    "category": "Transistor",
+    "value": "J310",
+    "reference": "T011",
+    "quantity": 30
+  },
+  {
+    "category": "Transistor",
+    "value": "MF102",
+    "reference": "T012",
+    "quantity": 30
+  },
+  {
+    "category": "Tarjeta SIM",
+    "value": "OPENCELLS- REA- WRI",
+    "reference": "SIM002",
+    "quantity": 2
+  },
+  {
+    "category": "Módulo",
+    "value": "ESP 32",
+    "reference": "MOD001",
+    "quantity": 2
+  },
+  {
+    "category": "Módulo",
+    "value": "ESP8266",
+    "reference": "MOD002",
+    "quantity": 6
+  },
+  {
+    "category": "FPGA",
+    "value": "DEO NANO2",
+    "reference": "FPGA001",
+    "quantity": 9
+  },
+  {
+    "category": "FPGA",
+    "value": "SOCKIT 2",
+    "reference": "FPGA002",
+    "quantity": 1
+  },
+  {
+    "category": "Módulo",
+    "value": "DEO NANO SOC",
+    "reference": "MOD003",
+    "quantity": 5
+  },
+  {
+    "category": "Raspberry Pi",
+    "value": "Raspberry Pi 4",
+    "reference": "RP001",
+    "quantity": 2
+  },
+  {
+    "category": "Raspberry Pi",
+    "value": "Raspberry Pi 3",
+    "reference": "RP002",
+    "quantity": 1
+  },
+  {
+    "category": "Módulo",
+    "value": "SP32(Q403T-BIEM)",
+    "reference": "MOD004",
+    "quantity": 2
+  },
+  {
+    "category": "Módulo",
+    "value": "LORA SHIELD V95",
+    "reference": "MOD005",
+    "quantity": 10
+  },
+  {
+    "category": "Pantalla",
+    "value": "Táctil 4D System",
+    "reference": "DISP001",
+    "quantity": 5
+  },
+  {
+    "category": "Arduino",
+    "value": "Galileo 3",
+    "reference": "ARD001",
+    "quantity": 5
+  },
+  {
+    "category": "Tarjeta de Adquisición",
+    "value": "6008",
+    "reference": "TA002",
+    "quantity": 1
+  },
+  {
+    "category": "Tarjeta de Adquisición",
+    "value": "6210-6211",
+    "reference": "TA003",
+    "quantity": 2
+  },
+  {
+    "category": "Ensamble",
+    "value": "U3-HV",
+    "reference": "ENS001",
+    "quantity": 1
+  },
+  {
+    "category": "Tarjeta PCI",
+    "value": "PCI 6251 + Bloque de Conectores",
+    "reference": "PCI001",
+    "quantity": 1
+  },
+  {
+    "category": "Conector",
+    "value": "Tarjeta de Adquisición PCI",
+    "reference": "CON001",
+    "quantity": 1
+  },
+  {
+    "category": "Arduino",
+    "value": "Flip Click (Arduino Due)",
+    "reference": "ARD002",
+    "quantity": 5
+  },
+  {
+    "category": "Placa",
+    "value": "Element 14 Beaglebone Black",
+    "reference": "PCB001",
+    "quantity": 4
+  },
+  {
+    "category": "Placa",
+    "value": "Beagle Bone Black (PO11587)",
+    "reference": "PCB002",
+    "quantity": 4
+  },
+  {
+    "category": "Placa",
+    "value": "Beagle Bone DVI - D CAPE",
+    "reference": "PCB003",
+    "quantity": 4
+  },
+  {
+    "category": "LabJack",
+    "value": "U3-HV",
+    "reference": "LAB001",
+    "quantity": 6
+  },
+  {
+    "category": "USB Stick",
+    "value": "TMS320C5515 eZdsp",
+    "reference": "USB001",
+    "quantity": 5
+  },
+  {
+    "category": "Módulo",
+    "value": "ECLYPSE Z7",
+    "reference": "MOD006",
+    "quantity": 1
+  },
+  {
+    "category": "Motoreductor",
+    "value": "Amarillo",
+    "reference": "MOT001",
+    "quantity": 24
+  },
+  {
+    "category": "Llantas",
+    "value": "Diez pares de llantas para motoreductores",
+    "reference": "LLA001",
+    "quantity": 20
+  },
+  {
+    "category": "Matriz",
+    "value": "Numérica",
+    "reference": "MAT001",
+    "quantity": 16
+  },
+  {
+    "category": "Módulo",
+    "value": "Bluetooth zs-040",
+    "reference": "MOD007",
+    "quantity": 15
+  },
+  {
+    "category": "Sensor",
+    "value": "Final de carrera",
+    "reference": "SEN003",
+    "quantity": 7
+  },
+  {
+    "category": "Swich",
+    "value": "Lógico",
+    "reference": "SWI001",
+    "quantity": 22
+  },
+  {
+    "category": "Micro servo motor",
+    "value": "SG90",
+    "reference": "MOT002",
+    "quantity": 5
+  },
+  {
+    "category": "Servo motor",
+    "value": "SG995",
+    "reference": "MOT003",
+    "quantity": 2
+  },
+  {
+    "category": "Módulo",
+    "value": "Relé (Keyes) 5V DC",
+    "reference": "MOD008",
+    "quantity": 15
+  },
+  {
+    "category": "Módulo",
+    "value": "Conversor a micro USB a serial (FTDI232)",
+    "reference": "MOD009",
+    "quantity": 2
+  },
+  {
+    "category": "Módulo",
+    "value": "Micrófono de Arduino",
+    "reference": "MOD010",
+    "quantity": 20
+  },
+  {
+    "category": "Módulo",
+    "value": "Infrarrojo",
+    "reference": "MOD011",
+    "quantity": 20
+  },
+  {
+    "category": "Módulo",
+    "value": "Buzzer",
+    "reference": "MOD012",
+    "quantity": 25
+  },
+  {
+    "category": "Sensor",
+    "value": "Dos colores",
+    "reference": "SEN004",
+    "quantity": 30
+  },
+  {
+    "category": "Sensor",
+    "value": "Tres colores",
+    "reference": "SEN005",
+    "quantity": 30
+  },
+  {
+    "category": "Jumper",
+    "value": "M-M",
+    "reference": "JUM001",
+    "quantity": 40
+  },
+  {
+    "category": "Jumper",
+    "value": "M-H",
+    "reference": "JUM002",
+    "quantity": 1
+  },
+  {
+    "category": "Módulo",
+    "value": "Fotoresistencia",
+    "reference": "MOD013",
+    "quantity": 10
+  },
+  {
+    "category": "Módulo",
+    "value": "Láser",
+    "reference": "MOD014",
+    "quantity": 10
+  },
+  {
+    "category": "Módulo",
+    "value": "Distancia infrarrojo",
+    "reference": "MOD015",
+    "quantity": 30
+  },
+  {
+    "category": "Módulo",
+    "value": "Pulsador",
+    "reference": "MOD016",
+    "quantity": 10
+  },
+  {
+    "category": "Módulo",
+    "value": "Potenciómetro",
+    "reference": "MOD017",
+    "quantity": 10
+  },
+  {
+    "category": "Pantalla",
+    "value": "LCD",
+    "reference": "DISP002",
+    "quantity": 30
+  },
+  {
+    "category": "Matriz LED",
+    "value": "8x8",
+    "reference": "LED001",
+    "quantity": 16
+  },
+  {
+    "category": "Contador",
+    "value": "4 dígitos",
+    "reference": "CON002",
+    "quantity": 10
+  },
+  {
+    "category": "Contador",
+    "value": "1 dígito",
+    "reference": "CON003",
+    "quantity": 10
+  },
+  {
+    "category": "Control",
+    "value": "N/A",
+    "reference": "CTRL001",
+    "quantity": 20
+  },
+  {
+    "category": "Módulo",
+    "value": "DHT11",
+    "reference": "MOD018",
+    "quantity": 15
+  },
+  {
+    "category": "Módulo",
+    "value": "Flying-fish",
+    "reference": "MOD019",
+    "quantity": 10
+  },
+  {
+    "category": "Sensor",
+    "value": "Temperatura ANG",
+    "reference": "SEN006",
+    "quantity": 20
+  },
+  {
+    "category": "Motor",
+    "value": "Paso a paso para Arduino",
+    "reference": "MOT004",
+    "quantity": 15
+  },
+  {
+    "category": "Potenciómetro",
+    "value": "N/A",
+    "reference": "POT001",
+    "quantity": 20
+  },
+  {
+    "category": "Puente H",
+    "value": "LM298",
+    "reference": "PH001",
+    "quantity": 6
+  },
+  {
+    "category": "Sensor",
+    "value": "Color",
+    "reference": "SEN007",
+    "quantity": 5
+  },
+  {
+    "category": "Sensor",
+    "value": "Distancia de ultrasonido",
+    "reference": "SEN008",
+    "quantity": 5
+  },
+  {
+    "category": "Joystick",
+    "value": "Arduino",
+    "reference": "JOY001",
+    "quantity": 14
+  },
+  {
+    "category": "Pulsador",
+    "value": "N/A",
+    "reference": "PUL001",
+    "quantity": 30
+  },
+  {
+    "category": "Buzzer",
+    "value": "N/A",
+    "reference": "BUZ001",
+    "quantity": 10
+  },
+  {
+    "category": "Teclado Matricial",
+    "value": "N/A",
+    "reference": "TECL001",
+    "quantity": 10
+  },
+  {
+    "category": "Codificador",
+    "value": "Eje óptico",
+    "reference": "COD001",
+    "quantity": 2
+  },
+  {
+    "category": "Extensión",
+    "value": "Arduino",
+    "reference": "EXT001",
+    "quantity": 20
+  },
+  {
+    "category": "Protoboard",
+    "value": "N/A",
+    "reference": "PROTO001",
+    "quantity": 10
+  },
+  {
+    "category": "Sensor",
+    "value": "Inclinación",
+    "reference": "SEN009",
+    "quantity": 20
+  },
+  {
+    "category": "LED",
+    "value": "N/A",
+    "reference": "LED002",
+    "quantity": 100
+  },
+  {
+    "category": "Portabatería",
+    "value": "9V",
+    "reference": "BATT001",
+    "quantity": 10
+  },
+  {
+    "category": "Fotodiodo",
+    "value": "N/A",
+    "reference": "FD001",
+    "quantity": 10
+  },
+  {
+    "category": "Módulo",
+    "value": "SIM7600G-H CAT4 4G (LTE) Shield for Arduino",
+    "reference": "MOD020",
+    "quantity": 1
+  },
+  {
+    "category": "Arduino",
+    "value": "MEGA 2560",
+    "reference": "ARD003",
+    "quantity": 1
+  },
+  {
+    "category": "Módulo",
+    "value": "X 4 Matriz 8x8 LED MAX7219",
+    "reference": "MOD021",
+    "quantity": 1
+  },
+  {
+    "category": "Placa",
+    "value": "Alhambra II",
+    "reference": "PCB004",
+    "quantity": 6
+  },
+  {
+    "category": "Matriz LED",
+    "value": "RGB 8x8 Neopixel Ws2812",
+    "reference": "LED003",
+    "quantity": 1
+  },
+  {
+    "category": "Resistencia",
+    "value": "1.2 kΩ",
+    "reference": "R001",
+    "quantity": 100
+  },
+  {
+    "category": "Resistencia",
+    "value": "1 kΩ",
+    "reference": "R002",
+    "quantity": 200
+  },
+  {
+    "category": "Resistencia",
+    "value": "150 kΩ",
+    "reference": "R003",
+    "quantity": 150
+  },
+  {
+    "category": "Resistencia",
+    "value": "2 kΩ",
+    "reference": "R004",
+    "quantity": 100
+  },
+  {
+    "category": "Resistencia",
+    "value": "120 Ω",
+    "reference": "R005",
+    "quantity": 80
+  },
+  {
+    "category": "Resistencia",
+    "value": "3.3 kΩ",
+    "reference": "R006",
+    "quantity": 90
+  },
+  {
+    "category": "Resistencia",
+    "value": "6.8 Ω",
+    "reference": "R007",
+    "quantity": 60
+  },
+  {
+    "category": "Resistencia",
+    "value": "2.2 kΩ",
+    "reference": "R008",
+    "quantity": 120
+  },
+  {
+    "category": "Resistencia",
+    "value": "270 kΩ",
+    "reference": "R009",
+    "quantity": 70
+  },
+  {
+    "category": "Resistencia",
+    "value": "3.3 MΩ",
+    "reference": "R010",
+    "quantity": 30
+  },
+  {
+    "category": "Resistencia",
+    "value": "7.5 kΩ",
+    "reference": "R011",
+    "quantity": 50
+  },
+  {
+    "category": "Resistencia",
+    "value": "68 Ω",
+    "reference": "R012",
+    "quantity": 100
+  },
+  {
+    "category": "Resistencia",
+    "value": "330 Ω",
+    "reference": "R013",
+    "quantity": 90
+  },
+  {
+    "category": "Resistencia",
+    "value": "390 Ω",
+    "reference": "R014",
+    "quantity": 85
+  },
+  {
+    "category": "Resistencia",
+    "value": "3.9 kΩ",
+    "reference": "R015",
+    "quantity": 75
+  },
+  {
+    "category": "Resistencia",
+    "value": "10 kΩ",
+    "reference": "R016",
+    "quantity": 140
+  },
+  {
+    "category": "Resistencia",
+    "value": "100 Ω",
+    "reference": "R017",
+    "quantity": 200
+  },
+  {
+    "category": "Resistencia",
+    "value": "100 kΩ",
+    "reference": "R018",
+    "quantity": 180
+  },
+  {
+    "category": "Resistencia",
+    "value": "470 Ω",
+    "reference": "R019",
+    "quantity": 160
+  },
+  {
+    "category": "Resistencia",
+    "value": "4.7 kΩ",
+    "reference": "R020",
+    "quantity": 140
+  },
+  {
+    "category": "Resistencia",
+    "value": "47 kΩ",
+    "reference": "R021",
+    "quantity": 150
+  },
+  {
+    "category": "Resistencia",
+    "value": "470 kΩ",
+    "reference": "R022",
+    "quantity": 90
+  },
+  {
+    "category": "Resistencia",
+    "value": "680 Ω",
+    "reference": "R023",
+    "quantity": 120
+  },
+  {
+    "category": "Resistencia",
+    "value": "27 kΩ",
+    "reference": "R024",
+    "quantity": 100
+  },
+  {
+    "category": "Resistencia",
+    "value": "56 kΩ",
+    "reference": "R025",
+    "quantity": 85
+  },
+  {
+    "category": "Resistencia",
+    "value": "5.1 kΩ",
+    "reference": "R026",
+    "quantity": 50
+  },
+  {
+    "category": "Resistencia",
+    "value": "82 kΩ",
+    "reference": "R027",
+    "quantity": 70
+  },
+  {
+    "category": "Resistencia",
+    "value": "15 kΩ",
+    "reference": "R028",
+    "quantity": 60
+  },
+  {
+    "category": "Resistencia",
+    "value": "51 kΩ",
+    "reference": "R029",
+    "quantity": 80
+  },
+  {
+    "category": "Resistencia",
+    "value": "33 Ω",
+    "reference": "R030",
+    "quantity": 100
+  },
+  {
+    "category": "Resistencia",
+    "value": "220 Ω",
+    "reference": "R031",
+    "quantity": 130
+  },
+  {
+    "category": "Resistencia",
+    "value": "750 Ω",
+    "reference": "R032",
+    "quantity": 90
+  },
+  {
+    "category": "Resistencia",
+    "value": "1 MΩ",
+    "reference": "R033",
+    "quantity": 50
+  },
+  {
+    "category": "Resistencia",
+    "value": "1.8 MΩ",
+    "reference": "R034",
+    "quantity": 40
+  },
+  {
+    "category": "Resistencia",
+    "value": "2.2 MΩ",
+    "reference": "R035",
+    "quantity": 35
+  },
+  {
+    "category": "Resistencia cerámica",
+    "value": "1 Ω",
+    "reference": "RC001",
+    "quantity": 100
+  },
+  {
+    "category": "Resistencia cerámica",
+    "value": "10 Ω",
+    "reference": "RC002",
+    "quantity": 90
+  },
+  {
+    "category": "Resistencia cerámica",
+    "value": "2.2 Ω",
+    "reference": "RC003",
+    "quantity": 85
+  },
+  {
+    "category": "Resistencia cerámica",
+    "value": "100 Ω",
+    "reference": "RC004",
+    "quantity": 150
+  },
+  {
+    "category": "Resistencia cerámica",
+    "value": "10 kΩ",
+    "reference": "RC005",
+    "quantity": 80
+  },
+  {
+    "category": "Potenciómetro",
+    "value": "10 kΩ",
+    "reference": "P001",
+    "quantity": 90
+  },
+  {
+    "category": "Potenciómetro",
+    "value": "2 kΩ",
+    "reference": "P002",
+    "quantity": 85
+  },
+  {
+    "category": "Potenciómetro",
+    "value": "1 kΩ",
+    "reference": "P003",
+    "quantity": 120
+  },
+  {
+    "category": "Potenciómetro",
+    "value": "500 kΩ",
+    "reference": "P004",
+    "quantity": 60
+  },
+  {
+    "category": "Potenciómetro",
+    "value": "100 kΩ",
+    "reference": "P005",
+    "quantity": 80
+  },
+  {
+    "category": "Potenciómetro",
+    "value": "250 kΩ",
+    "reference": "P006",
+    "quantity": 70
+  },
+  {
+    "category": "Potenciómetro",
+    "value": "50 kΩ",
+    "reference": "P007",
+    "quantity": 65
+  },
+  {
+    "category": "Potenciómetro",
+    "value": "20 kΩ",
+    "reference": "P008",
+    "quantity": 75
+  },
+  {
+    "category": "Potenciómetro",
+    "value": "5 kΩ",
+    "reference": "P009",
+    "quantity": 90
+  },
+  {
+    "category": "Potenciómetro de precisión",
+    "value": "5 kΩ",
+    "reference": "PP001",
+    "quantity": 60
+  },
+  {
+    "category": "Potenciómetro de precisión",
+    "value": "1 kΩ",
+    "reference": "PP002",
+    "quantity": 50
+  },
+  {
+    "category": "Potenciómetro de precisión",
+    "value": "10 kΩ",
+    "reference": "PP003",
+    "quantity": 70
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "2.2 μF",
+    "reference": "CE001",
+    "quantity": 100
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "1 μF",
+    "reference": "CE002",
+    "quantity": 120
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "4.7 μF",
+    "reference": "CE003",
+    "quantity": 100
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "0.22 μF",
+    "reference": "CE004",
+    "quantity": 80
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "0.1 μF",
+    "reference": "CE005",
+    "quantity": 90
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "0.47 μF",
+    "reference": "CE006",
+    "quantity": 80
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "33 μF",
+    "reference": "CE007",
+    "quantity": 60
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "3300 μF",
+    "reference": "CE008",
+    "quantity": 70
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "3.3 μF",
+    "reference": "CE009",
+    "quantity": 90
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "22 μF",
+    "reference": "CE010",
+    "quantity": 100
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "1000 μF",
+    "reference": "CE011",
+    "quantity": 85
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "47 μF",
+    "reference": "CE012",
+    "quantity": 70
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "330 μF",
+    "reference": "CE013",
+    "quantity": 75
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "100 μF",
+    "reference": "CE014",
+    "quantity": 120
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "2200 μF",
+    "reference": "CE015",
+    "quantity": 50
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "220 μF",
+    "reference": "CE016",
+    "quantity": 65
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "10 μF",
+    "reference": "CE017",
+    "quantity": 150
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "4700 μF",
+    "reference": "CE018",
+    "quantity": 40
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "6800 μF",
+    "reference": "CE019",
+    "quantity": 30
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "820 μF",
+    "reference": "CE020",
+    "quantity": 25
+  },
+  {
+    "category": "Capacitor electrolítico",
+    "value": "68 μF",
+    "reference": "CE021",
+    "quantity": 20
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "0.1 nF",
+    "reference": "CC001",
+    "quantity": 100
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "1 nF",
+    "reference": "CC002",
+    "quantity": 90
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "47 nF",
+    "reference": "CC003",
+    "quantity": 80
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "56 pF",
+    "reference": "CC004",
+    "quantity": 85
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "10 nF",
+    "reference": "CC005",
+    "quantity": 70
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "100 nF",
+    "reference": "CC006",
+    "quantity": 60
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "220 pF",
+    "reference": "CC007",
+    "quantity": 75
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "47 pF",
+    "reference": "CC008",
+    "quantity": 85
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "27 pF",
+    "reference": "CC009",
+    "quantity": 80
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "470 pF",
+    "reference": "CC010",
+    "quantity": 90
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "22 pF",
+    "reference": "CC011",
+    "quantity": 60
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "4.7 nF",
+    "reference": "CC012",
+    "quantity": 70
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "3.3 nF",
+    "reference": "CC013",
+    "quantity": 50
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "2.2 nF",
+    "reference": "CC014",
+    "quantity": 65
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "33 nF",
+    "reference": "CC015",
+    "quantity": 80
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "10 pF",
+    "reference": "CC016",
+    "quantity": 100
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "1 pF",
+    "reference": "CC017",
+    "quantity": 120
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "0.068 μF",
+    "reference": "CC018",
+    "quantity": 40
+  },
+  {
+    "category": "Capacitor cerámico",
+    "value": "270 pF",
+    "reference": "CC019",
+    "quantity": 75
+  },
+  {
+    "category": "Capacitor variable",
+    "value": "5 pF",
+    "reference": "CV001",
+    "quantity": 100
+  },
+  {
+    "category": "Capacitor variable",
+    "value": "10 pF",
+    "reference": "CV002",
+    "quantity": 90
+  },
+  {
+    "category": "Capacitor variable",
+    "value": "20 pF",
+    "reference": "CV003",
+    "quantity": 80
+  },
+  {
+    "category": "Capacitor variable",
+    "value": "30 pF",
+    "reference": "CV004",
+    "quantity": 70
+  },
+  {
+    "category": "Capacitor variable",
+    "value": "40 pF",
+    "reference": "CV005",
+    "quantity": 60
+  },
+  {
+    "category": "Capacitor variable",
+    "value": "50 pF",
+    "reference": "CV006",
+    "quantity": 50
+  },
+  {
+    "category": "Capacitor variable",
+    "value": "60 pF",
+    "reference": "CV007",
+    "quantity": 40
+  },
+  {
+    "category": "Capacitor variable",
+    "value": "70 pF",
+    "reference": "CV008",
+    "quantity": 30
+  },
+  {
+    "category": "Capacitor variable",
+    "value": "120 pF",
+    "reference": "CV009",
+    "quantity": 20
+  },
+  {
+    "category": "Capacitor poliéster",
+    "value": "0.33 μF",
+    "reference": "CP001",
+    "quantity": 60
+  },
+  {
+    "category": "Capacitor poliéster",
+    "value": "0.22 μF",
+    "reference": "CP002",
+    "quantity": 80
+  },
+  {
+    "category": "Capacitor poliéster",
+    "value": "2.2 μF",
+    "reference": "CP003",
+    "quantity": 50
+  },
+  {
+    "category": "Capacitor poliéster",
+    "value": "0.47 μF",
+    "reference": "CP004",
+    "quantity": 70
+  },
+  {
+    "category": "Capacitor poliéster",
+    "value": "0.1 μF",
+    "reference": "CP005",
+    "quantity": 90
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "2.2 μH",
+    "reference": "IC001",
+    "quantity": 120
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "3.3 μH",
+    "reference": "IC002",
+    "quantity": 110
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "4.7 μH",
+    "reference": "IC003",
+    "quantity": 100
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "10 μH",
+    "reference": "IC004",
+    "quantity": 90
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "15 μH",
+    "reference": "IC005",
+    "quantity": 80
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "22 μH",
+    "reference": "IC006",
+    "quantity": 70
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "33 μH",
+    "reference": "IC007",
+    "quantity": 60
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "47 μH",
+    "reference": "IC008",
+    "quantity": 50
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "68 μH",
+    "reference": "IC009",
+    "quantity": 40
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "100 μH",
+    "reference": "IC010",
+    "quantity": 30
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "150 μH",
+    "reference": "IC011",
+    "quantity": 25
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "220 μH",
+    "reference": "IC012",
+    "quantity": 20
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "330 μH",
+    "reference": "IC013",
+    "quantity": 15
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "470 μH",
+    "reference": "IC014",
+    "quantity": 12
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "680 μH",
+    "reference": "IC015",
+    "quantity": 10
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "1 mH",
+    "reference": "IC016",
+    "quantity": 8
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "1.5 mH",
+    "reference": "IC017",
+    "quantity": 6
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "2.2 mH",
+    "reference": "IC018",
+    "quantity": 4
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "3.3 mH",
+    "reference": "IC019",
+    "quantity": 3
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "4.7 mH",
+    "reference": "IC020",
+    "quantity": 2
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "10 mH",
+    "reference": "IC021",
+    "quantity": 1
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "20 mH",
+    "reference": "IC022",
+    "quantity": 1
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "30 mH",
+    "reference": "IC023",
+    "quantity": 1
+  },
+  {
+    "category": "Inductor Tipo Axial de choque",
+    "value": "100 mH",
+    "reference": "IC024",
+    "quantity": 1
+  },
+  {
+    "category": "Inductor Tipo Axial",
+    "value": "330 μH",
+    "reference": "I001",
+    "quantity": 100
+  },
+  {
+    "category": "Inductor Tipo Axial",
+    "value": "10 μH",
+    "reference": "I002",
+    "quantity": 90
+  },
+  {
+    "category": "Inductor Tipo Axial",
+    "value": "560 μH",
+    "reference": "I003",
+    "quantity": 80
+  },
+  {
+    "category": "Inductor Tipo Axial",
+    "value": "150 μH",
+    "reference": "I004",
+    "quantity": 70
+  },
+  {
+    "category": "Inductor Tipo Axial",
+    "value": "33 μH",
+    "reference": "I005",
+    "quantity": 60
+  },
+  {
+    "category": "Inductor Tipo Axial",
+    "value": "47 μH",
+    "reference": "I006",
+    "quantity": 50
+  },
+  {
+    "category": "Inductor Tipo Axial",
+    "value": "1 μH",
+    "reference": "I007",
+    "quantity": 40
+  },
+  {
+    "category": "Inductor Tipo Axial",
+    "value": "220 μH",
+    "reference": "I008",
+    "quantity": 30
+  },
+  {
+    "category": "Inductor Tipo Axial",
+    "value": "100 μH",
+    "reference": "I009",
+    "quantity": 25
+  },
+  {
+    "category": "Inductor Tipo Axial",
+    "value": "22 μH",
+    "reference": "I010",
+    "quantity": 20
+  },
+  {
+    "category": "Inductor Tipo Axial",
+    "value": "680 μH",
+    "reference": "I011",
+    "quantity": 15
+  },
+  {
+    "category": "Inductor Tipo Axial",
+    "value": "470 μH",
+    "reference": "I012",
+    "quantity": 10
+  },
+  {
+    "category": "Inductor Tipo Axial",
+    "value": "1 mH",
+    "reference": "I013",
+    "quantity": 8
+  },
+  {
+    "category": "Fuente de poder",
+    "brand": "GW INSTEK",
+    "model": "GPS 3303",
+    "inventory_plate": "41645",
+    "quantity": 1
+  },
+  {
+    "category": "Fuente de poder",
+    "brand": "GW INSTEK",
+    "model": "GPS 3304",
+    "inventory_plate": "41646",
+    "quantity": 1
+  },
+  {
+    "category": "Fuente de poder",
+    "brand": "GW INSTEK",
+    "model": "GPS 3305",
+    "inventory_plate": "41647",
+    "quantity": 1
+  },
+  {
+    "category": "Fuente de poder",
+    "brand": "GW INSTEK",
+    "model": "GPS 3306",
+    "inventory_plate": "41648",
+    "quantity": 1
+  },
+  {
+    "category": "Fuente de poder",
+    "brand": "GW INSTEK",
+    "model": "GPS 3307",
+    "inventory_plate": "41649",
+    "quantity": 1
+  },
+  {
+    "category": "Fuente de poder",
+    "brand": "GW INSTEK",
+    "model": "GPS 3308",
+    "inventory_plate": "41650",
+    "quantity": 1
+  },
+  {
+    "category": "Fuente de poder",
+    "brand": "GW INSTEK",
+    "model": "GPS 3309",
+    "inventory_plate": "41651",
+    "quantity": 1
+  },
+  {
+    "category": "Fuente de poder",
+    "brand": "GW INSTEK",
+    "model": "GPS 3310",
+    "inventory_plate": "41652",
+    "quantity": 1
+  },
+  {
+    "category": "Fuente de poder",
+    "brand": "GW INSTEK",
+    "model": "GPS 3311",
+    "inventory_plate": "41653",
+    "quantity": 1
+  },
+  {
+    "category": "Fuente de poder",
+    "brand": "GW INSTEK",
+    "model": "GPS 3312",
+    "inventory_plate": "41654",
+    "quantity": 1
+  },
+  {
+    "category": "Fuente de poder",
+    "brand": "GW INSTEK",
+    "model": "GPS 3313",
+    "inventory_plate": "41655",
+    "quantity": 1
+  },
+  {
+    "category": "Fuente de poder",
+    "brand": "GW INSTEK",
+    "model": "GPS 3314",
+    "inventory_plate": "41656",
+    "quantity": 1
+  },
+  {
+    "category": "Fuente de poder",
+    "brand": "GW INSTEK",
+    "model": "GPS 3315",
+    "inventory_plate": "41657",
+    "quantity": 1
+  },
+  {
+    "category": "Fuente de poder",
+    "brand": "GW INSTEK",
+    "model": "GPS 3316",
+    "inventory_plate": "41658",
+    "quantity": 1
+  },
+  {
+    "category": "Generador",
+    "brand": "PROMAX",
+    "model": "GF-855",
+    "inventory_plate": "41669",
+    "quantity": 1
+  },
+  {
+    "category": "Generador",
+    "brand": "PROMAX",
+    "model": "GF-856",
+    "inventory_plate": "41670",
+    "quantity": 1
+  },
+  {
+    "category": "Generador",
+    "brand": "PROMAX",
+    "model": "GF-857",
+    "inventory_plate": "41672",
+    "quantity": 1
+  },
+  {
+    "category": "Generador",
+    "brand": "PROMAX",
+    "model": "GF-858",
+    "inventory_plate": "41674",
+    "quantity": 1
+  },
+  {
+    "category": "Generador",
+    "brand": "PROMAX",
+    "model": "GF-859",
+    "inventory_plate": "41676",
+    "quantity": 1
+  },
+  {
+    "category": "Generador",
+    "brand": "PROMAX",
+    "model": "GF-860",
+    "inventory_plate": "41677",
+    "quantity": 1
+  },
+  {
+    "category": "Generador",
+    "brand": "PROMAX",
+    "model": "GF-861",
+    "inventory_plate": "41678",
+    "quantity": 1
+  },
+  {
+    "category": "Generador",
+    "brand": "PROMAX",
+    "model": "GF-862",
+    "inventory_plate": "41679",
+    "quantity": 1
+  },
+  {
+    "category": "Generador",
+    "brand": "PROMAX",
+    "model": "GF-863",
+    "inventory_plate": "41680",
+    "quantity": 1
+  },
+  {
+    "category": "Generador",
+    "brand": "PROMAX",
+    "model": "GF-864",
+    "inventory_plate": "41681",
+    "quantity": 1
+  },
+  {
+    "category": "Generador",
+    "brand": "PROMAX",
+    "model": "GF-865",
+    "inventory_plate": "41682",
+    "quantity": 1
+  },
+  {
+    "category": "Generador",
+    "brand": "PROMAX",
+    "model": "GF-866",
+    "inventory_plate": "41683",
+    "quantity": 1
+  },
+  {
+    "category": "Generador",
+    "brand": "PROMAX",
+    "model": "GR-205",
+    "inventory_plate": "41637",
+    "quantity": 1
+  },
+  {
+    "category": "Generador",
+    "brand": "PROMAX",
+    "model": "GR-205",
+    "inventory_plate": "41638",
+    "quantity": 1
+  },
+  {
+    "category": "Generador",
+    "brand": "PROTEK",
+    "model": "B-810",
+    "inventory_plate": "27930",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "ROHDE & SCHWARZ",
+    "model": "RTB-2004",
+    "inventory_plate": "73988",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "ROHDE & SCHWARZ",
+    "model": "RTB-2005",
+    "inventory_plate": "73989",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "ROHDE & SCHWARZ",
+    "model": "RTB-2006",
+    "inventory_plate": "73990",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "ROHDE & SCHWARZ",
+    "model": "RTB-2007",
+    "inventory_plate": "73991",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "ROHDE & SCHWARZ",
+    "model": "RTB-2008",
+    "inventory_plate": "73992",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "ROHDE & SCHWARZ",
+    "model": "RTB-2009",
+    "inventory_plate": "73993",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "ROHDE & SCHWARZ",
+    "model": "RTB-2010",
+    "inventory_plate": "73994",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "ROHDE & SCHWARZ",
+    "model": "RTB-2011",
+    "inventory_plate": "73995",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "ROHDE & SCHWARZ",
+    "model": "RTB-2012",
+    "inventory_plate": "73996",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "ROHDE & SCHWARZ",
+    "model": "RTB-2013",
+    "inventory_plate": "73997",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "ROHDE & SCHWARZ",
+    "model": "RTB-2014",
+    "inventory_plate": "73998",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "ROHDE & SCHWARZ",
+    "model": "RTB-2015",
+    "inventory_plate": "73999",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "ROHDE & SCHWARZ",
+    "model": "RTB-2016",
+    "inventory_plate": "74000",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "ROHDE & SCHWARZ",
+    "model": "RTB-2017",
+    "inventory_plate": "74001",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "ROHDE & SCHWARZ",
+    "model": "RTB-2018",
+    "inventory_plate": "74002",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "GW INSTEK",
+    "model": "GDS-2004A",
+    "inventory_plate": "58716",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "GW INSTEK",
+    "model": "GDS-2004A",
+    "inventory_plate": "58718",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "GW INSTEK",
+    "model": "GDS-2004A",
+    "inventory_plate": "62251",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "PROMAX",
+    "model": "OD-571",
+    "inventory_plate": "41639",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "PROMAX",
+    "model": "OD-571",
+    "inventory_plate": "41640",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "PROMAX",
+    "model": "OD-571",
+    "inventory_plate": "416641",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "PROMAX",
+    "model": "OD-571",
+    "inventory_plate": "41642",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "PROMAX",
+    "model": "OD-571",
+    "inventory_plate": "41643",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "TEKTRONIX",
+    "model": "TDS-3014B",
+    "inventory_plate": "31069",
+    "quantity": 1
+  },
+  {
+    "category": "Osciloscopio",
+    "brand": "INSTEK",
+    "model": "GOS-6200",
+    "inventory_plate": "41661",
+    "quantity": 1
+  },
+  {
+    "category": "Analizador de espectro",
+    "brand": "GW INSTEK",
+    "model": "GSP-830",
+    "inventory_plate": "54894",
+    "quantity": 1
+  },
+  {
+    "category": "Multímetro",
+    "brand": "UNI-T",
+    "model": "UT61C",
+    "inventory_plate": "54210",
+    "quantity": 1
+  },
+  {
+    "category": "Multímetro",
+    "brand": "UNI-T",
+    "model": "UT61C",
+    "inventory_plate": "54215",
+    "quantity": 1
+  },
+  {
+    "category": "Multímetro",
+    "brand": "UNI-T",
+    "model": "UT61C",
+    "inventory_plate": "63603",
+    "quantity": 1
+  },
+  {
+    "category": "Multímetro",
+    "brand": "UNI-T",
+    "model": "UT61C",
+    "inventory_plate": "54218",
+    "quantity": 1
+  },
+  {
+    "category": "Multímetro",
+    "brand": "UNI-T",
+    "model": "UT61C",
+    "inventory_plate": "54211",
+    "quantity": 1
+  },
+  {
+    "category": "Multímetro",
+    "brand": "UNI-T",
+    "model": "UT61C",
+    "inventory_plate": "54219",
+    "quantity": 1
+  },
+  {
+    "category": "Multímetro",
+    "brand": "INNOVA",
+    "model": "3320",
+    "inventory_plate": "N/A",
+    "quantity": 1
+  }
+]
+
+
+
+
+
+
+
+
